@@ -12,3 +12,7 @@
     System.out.println("Hi 14848!");
   }
 ```
+
+- [x] Task1
+- [ ] Task2
+- [ ] Task3
